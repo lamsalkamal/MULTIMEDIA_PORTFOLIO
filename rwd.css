@@ -1,0 +1,24 @@
+
+body {
+	margin-left: 8%;
+	margin-right: 8%;
+	background-color: green;
+}
+h1, h2, h3, h4 {
+	font-weight: bold;
+	margin: 1%;
+	margin-left: 0;
+}
+h1{
+	font-size: 2.2em;
+	background-color: red;
+}
+h2{
+	font-size: 1.8em;
+}
+h3{
+	font-size: 1.5em;
+}
+h4{
+	font-size: 1em;
+}
